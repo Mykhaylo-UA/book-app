@@ -35,7 +35,7 @@ function App() {
       </Layout>
       <div className={`divider`}></div>
       <Layout className={`App featured`}>
-          <Card icon={`sad`} name={`asd`} description={`asdas`}/>
+          <Card icon={`sad`} name={`asd`} description={``}/>
       </Layout>
     </>
   );
